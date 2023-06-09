@@ -1,0 +1,38 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Roboto';
+
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+h2 {
+    margin: 2px;
+    font-size: 40px;
+}
+
+h3 {
+    margin: 0px;
+    font-size: 30px;
+}
+
+section {
+    width: 350px;
+    height: 565px;
+    background-color: white;
+}
+
+div {
+    font-size: 16px;
+}
+
+.box {
+    width: 350px;
+    height: 71px;
+    border: 0px;
+    background-color: #EA0774;
+    color: white;
+}
